@@ -28,6 +28,28 @@ The **AI-Powered Code Reviewer** is a modern, full-stack application designed to
 **Artificial Intelligence:**
 - Google Gemini Flash (Latest LLM)
 
+## 📁 Folder Structure
+
+```text
+AI-powered-Code-Reviewer/
+├── BackEnd/                 # Node.js + Express backend
+│   ├── src/
+│   │   ├── controllers/     # Request handlers
+│   │   ├── routes/          # API endpoint definitions
+│   │   └── services/        # Gemini AI logic & configuration
+│   ├── server.js            # Backend entry point
+│   └── package.json
+├── Frontend/                # React + Vite frontend
+│   ├── public/              # Static assets
+│   ├── src/                 # UI components, views, and styles
+│   │   ├── App.jsx          # Main application logic
+│   │   └── main.jsx         # React DOM rendering
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js       # Vite configuration
+└── README.md
+```
+
 ## 📦 Local Installation & Setup
 
 ### Prerequisites
