@@ -106,4 +106,4 @@ This project is structured to be easily deployed to modern cloud platforms:
 - **Node.js and Express.js Communities** for the robust backend ecosystem.
 
 ---
-*Developed and maintained by [Sarvesh Pingale](https://github.com/sarv-tech).*
+*Developed and maintained by [Sarvesh Pingale](https://www.linkedin.com/in/sarvesh-pingale-8b9090299).*
