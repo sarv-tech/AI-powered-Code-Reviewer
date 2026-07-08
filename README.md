@@ -23,7 +23,7 @@ The **AI-Powered Code Reviewer** is a modern, full-stack application designed to
 - Express.js
 
 **Artificial Intelligence:**
-- Google Gemini Flash (Latest LLM)
+- Google Gemini Flash (`gemini-flash-lite-latest`)
 
 ## 📁 Folder Structure
 
@@ -104,7 +104,7 @@ This project is structured to be easily deployed to modern cloud platforms:
 ![AI-Powered Code Reviewer Demo](https://github.com/user-attachments/assets/0863526b-0e20-4b11-a4a1-cf1e648619e1)
 
 ## 🙏 Acknowledgments
-- **Google Gemini Team** for providing the powerful Large Language Model.
+- **Google Gemini Team** for providing the powerful Large Language Model (`gemini-flash-lite-latest`).
 - **Vite and React Communities** for the outstanding frontend tooling.
 - **Node.js and Express.js Communities** for the robust backend ecosystem.
 
