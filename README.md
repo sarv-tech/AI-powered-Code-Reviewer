@@ -1,8 +1,5 @@
 # AI-Powered Code Reviewer
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-success?style=for-the-badge&logo=vercel)](https://ai-powered-code-reviewer-self.vercel.app/)
-
-![AI-Powered Code Reviewer Demo](https://github.com/user-attachments/assets/0863526b-0e20-4b11-a4a1-cf1e648619e1)
 
 The **AI-Powered Code Reviewer** is a modern, full-stack application designed to provide developers with instant, intelligent feedback on their code. By leveraging the advanced reasoning capabilities of Google's Gemini LLM, this tool analyzes code snippets for logical errors, security vulnerabilities, performance bottlenecks, and adherence to industry best practices.
 
@@ -99,6 +96,12 @@ npm run dev
 This project is structured to be easily deployed to modern cloud platforms:
 - **Frontend:** Designed for zero-config deployment on platforms like [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
 - **Backend:** Ready to be hosted on environments like [Render](https://render.com/), Railway, or Heroku. Ensure you configure the `GOOGLE_GEMINI_KEY` environment variable in your production environment.
+
+## 📺 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-success?style=for-the-badge&logo=vercel)](https://ai-powered-code-reviewer-self.vercel.app/)
+
+![AI-Powered Code Reviewer Demo](https://github.com/user-attachments/assets/0863526b-0e20-4b11-a4a1-cf1e648619e1)
 
 ## 🙏 Acknowledgments
 - **Google Gemini Team** for providing the powerful Large Language Model.
